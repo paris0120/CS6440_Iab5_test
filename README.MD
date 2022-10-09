@@ -1,5 +1,4 @@
 # Lab 5 Test Scripts
 
-1. Copy the solutions from https://github.gatech.edu/cs6440-hub/Lab-5-CQMs/tree/main/test_subset/output to the 'output' folder to the root folder (Lab-5-CQMs). It should be Lab-5-CQMs/output/CMS*v11Runner
-2. Copy the test.py file to the root folder (Lab-5-CQMs).
-3. run python test.py under the root folder (Lab-5-CQMs).
+1. Copy the files to lab5_cqms folder. You need to overwrite the main.py file and save the 'output' folder, so the answers will be under lab5_cqms/output/CMS*v11Runner
+3. run 'python main.py' under the lab5_cqms folder to generate and check your results.
